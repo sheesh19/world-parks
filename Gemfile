@@ -36,6 +36,9 @@ gem 'nokogiri'
 
 gem 'geocoder'
 
+# REXML => for CI
+gem 'rexml'
+
 
 group :development, :test do
   gem 'pry-byebug'
