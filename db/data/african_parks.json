@@ -2507,8 +2507,8 @@
         {
             "name": "Mnazi Bay-Ruvumba Estuary Marine Park",
             "address": "Mnazi Bay-Ruvumba Estuary Marine Park, Tanzania",
-            "latitude": 40,
-            "longitude": -10,
+            "latitude": -10,
+            "longitude": 40,
             "state": "Mtwara",
             "country": "Tanzania"
         },
