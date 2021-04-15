@@ -34,6 +34,8 @@ gem 'simple_form'
 gem 'open-uri'
 gem 'nokogiri'
 
+gem 'geocoder'
+
 
 group :development, :test do
   gem 'pry-byebug'
