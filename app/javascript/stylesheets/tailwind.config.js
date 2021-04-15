@@ -26,6 +26,7 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+      primary_blue: '#0E2635',
     },
     spacing: {
       px: '1px',
@@ -241,6 +242,7 @@ module.exports = {
         'BlinkMacSystemFont',
         '"Segoe UI"',
         'Roboto',
+        'Ruda',
         '"Helvetica Neue"',
         'Arial',
         '"Noto Sans"',
@@ -250,7 +252,7 @@ module.exports = {
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
       ],
-      serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      serif: ['Ruda','ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: [
         'ui-monospace',
         'SFMono-Regular',

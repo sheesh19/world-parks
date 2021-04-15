@@ -1,0 +1,5 @@
+meta_product_name: "International Parks"
+meta_title: "International Parks - Check out the national parks around the world"
+meta_description: "National parks information from around the world"
+meta_image: "international-parks-cover.png" # should exist in `app/assets/images/`
+# twitter_account: "@product_twitter_account"   # required for Twitter Cards
