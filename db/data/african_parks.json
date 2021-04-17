@@ -6,7 +6,8 @@
             "latitude": 23.2897916,
             "longitude": 5.5363864,
             "state": "Tamanrasset Province",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Belezma National Park",
@@ -14,7 +15,8 @@
             "latitude": 35.548029,
             "longitude": 5.943483500000001,
             "state": "Wilaya de Batna",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Chrea National Park",
@@ -22,7 +24,8 @@
             "latitude": 36.3600343,
             "longitude": 2.8178291,
             "state": "Wilaya de Blida",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Djebel Aissa National Park",
@@ -30,7 +33,8 @@
             "latitude": 32.8741007,
             "longitude": 0.4774252999999999,
             "state": "El Bayadh Province",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Djurdjura National Park",
@@ -38,7 +42,8 @@
             "latitude": 36.4685319,
             "longitude": 4.186622499999999,
             "state": null,
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "El Kala National Park",
@@ -46,7 +51,8 @@
             "latitude": 36.6441842,
             "longitude": 8.2869478,
             "state": null,
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Gouraya National Park",
@@ -54,7 +60,8 @@
             "latitude": 36.7679449,
             "longitude": 5.0863056,
             "state": "Wilaya de Béjaïa",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Taza National Park",
@@ -62,7 +69,8 @@
             "latitude": 36.6038004,
             "longitude": 5.4918094,
             "state": null,
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Theniet El Had National Park",
@@ -70,7 +78,8 @@
             "latitude": 35.8564476,
             "longitude": 1.9703856,
             "state": "Wilaya de Tissemsilt",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Tlemcen National Park",
@@ -78,7 +87,8 @@
             "latitude": 34.7988077,
             "longitude": -1.4338047,
             "state": "Wilaya de Tlemcen",
-            "country": "Algeria"
+            "country": "Algeria",
+            "region": "Africa"
         },
         {
             "name": "Bicauri National Park",
@@ -86,7 +96,8 @@
             "latitude": -15.3778395,
             "longitude": 14.7520939,
             "state": "Huíla",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Cameia National Park",
@@ -94,7 +105,8 @@
             "latitude": -11.8833333,
             "longitude": 21.6666667,
             "state": "Moxico",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Cangandala National Park",
@@ -102,7 +114,8 @@
             "latitude": -9.8802021,
             "longitude": 16.676292,
             "state": "Malanje",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Iona National Park",
@@ -110,7 +123,8 @@
             "latitude": -16.3629944,
             "longitude": 12.2547919,
             "state": "Namibe",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Longa-Mavinga National Park",
@@ -118,7 +132,8 @@
             "latitude": -16.1666667,
             "longitude": 20.25,
             "state": "Cuando-Cubango",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Luengue-Luiana National Park",
@@ -126,7 +141,8 @@
             "latitude": -16.740219,
             "longitude": 20.37892,
             "state": "Cuando-Cubango",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Mupa National Park",
@@ -134,7 +150,8 @@
             "latitude": -15.9166667,
             "longitude": 15.5833333,
             "state": null,
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Quiçama National Park",
@@ -142,7 +159,8 @@
             "latitude": -9.75,
             "longitude": 13.5833333,
             "state": "Bengo",
-            "country": "Angola"
+            "country": "Angola",
+            "region": "Africa"
         },
         {
             "name": "Pendjari National Park",
@@ -150,7 +168,8 @@
             "latitude": 11.2481125,
             "longitude": 1.5983959,
             "state": "Atakora",
-            "country": "Benin"
+            "country": "Benin",
+            "region": "Africa"
         },
         {
             "name": "W of the Niger National Park",
@@ -158,7 +177,8 @@
             "latitude": 12.0408333,
             "longitude": 3.0341667,
             "state": null,
-            "country": "Benin"
+            "country": "Benin",
+            "region": "Africa"
         },
         {
             "name": "Chobe National Park",
@@ -166,7 +186,8 @@
             "latitude": -18.7305642,
             "longitude": 24.4292148,
             "state": "North-West District",
-            "country": "Botswana"
+            "country": "Botswana",
+            "region": "Africa"
         },
         {
             "name": "Kgalagadi Transfrontier Park",
@@ -174,7 +195,8 @@
             "latitude": -26.4724121,
             "longitude": 20.6117036,
             "state": null,
-            "country": "Botswana"
+            "country": "Botswana",
+            "region": "Africa"
         },
         {
             "name": "Makgadikgadi Pans National Park",
@@ -182,7 +204,8 @@
             "latitude": -20.4506924,
             "longitude": 24.8092691,
             "state": null,
-            "country": "Botswana"
+            "country": "Botswana",
+            "region": "Africa"
         },
         {
             "name": "Nxai Pan National Park",
@@ -190,7 +213,8 @@
             "latitude": -19.8934748,
             "longitude": 24.7499112,
             "state": "North-West District",
-            "country": "Botswana"
+            "country": "Botswana",
+            "region": "Africa"
         },
         {
             "name": "Arli National Park",
@@ -198,7 +222,8 @@
             "latitude": 11.5495248,
             "longitude": 1.4526146,
             "state": "Est Region",
-            "country": "Burkina Faso"
+            "country": "Burkina Faso",
+            "region": "Africa"
         },
         {
             "name": "Deux Balés National Park",
@@ -206,7 +231,8 @@
             "latitude": 11.5550814,
             "longitude": -2.9775558,
             "state": null,
-            "country": "Burkina Faso"
+            "country": "Burkina Faso",
+            "region": "Africa"
         },
         {
             "name": "Kaboré Tambi National Park (formerly Pô National Park)",
@@ -214,7 +240,8 @@
             "latitude": 11.5668974,
             "longitude": -1.4048249,
             "state": "Centre-Sud",
-            "country": "Burkina Faso"
+            "country": "Burkina Faso",
+            "region": "Africa"
         },
         {
             "name": "W of the Niger National Park",
@@ -222,7 +249,8 @@
             "latitude": 12.0408333,
             "longitude": 3.0341667,
             "state": null,
-            "country": "Burkina Faso"
+            "country": "Burkina Faso",
+            "region": "Africa"
         },
         {
             "name": "Kibira National Park",
@@ -230,7 +258,8 @@
             "latitude": -3,
             "longitude": 29.5,
             "state": null,
-            "country": "Burundi"
+            "country": "Burundi",
+            "region": "Africa"
         },
         {
             "name": "Risizi National Park",
@@ -238,7 +267,8 @@
             "latitude": -3.3441326,
             "longitude": 29.2789934,
             "state": null,
-            "country": "Burundi"
+            "country": "Burundi",
+            "region": "Africa"
         },
         {
             "name": "Ruvubu National Park",
@@ -246,7 +276,8 @@
             "latitude": -3.1666667,
             "longitude": 30.3333333,
             "state": null,
-            "country": "Burundi"
+            "country": "Burundi",
+            "region": "Africa"
         },
         {
             "name": "Bénoué National Park",
@@ -254,7 +285,8 @@
             "latitude": 8.368522,
             "longitude": 13.8680047,
             "state": "North",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Bouba Njida National Park",
@@ -262,7 +294,8 @@
             "latitude": 8.6421064,
             "longitude": 14.5655273,
             "state": "North",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Boumba Bek National Park",
@@ -270,7 +303,8 @@
             "latitude": 2.9182767,
             "longitude": 14.7520939,
             "state": "East",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Campo Ma'an National Park",
@@ -278,7 +312,8 @@
             "latitude": 2.653013,
             "longitude": 10.5296115,
             "state": "South",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Faro National Park",
@@ -286,7 +321,8 @@
             "latitude": 8.1934636,
             "longitude": 12.7135121,
             "state": "North",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Korup National Park",
@@ -294,7 +330,8 @@
             "latitude": 5.285737699999999,
             "longitude": 9.0571089,
             "state": "Southwest",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Lobéké National Park",
@@ -302,7 +339,8 @@
             "latitude": 2.292747,
             "longitude": 15.6881788,
             "state": "East",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Nki National Park",
@@ -310,7 +348,8 @@
             "latitude": 2.4580836,
             "longitude": 14.5655273,
             "state": "East",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Waza National Park",
@@ -318,7 +357,8 @@
             "latitude": 11.3333333,
             "longitude": 14.6666667,
             "state": "Far North",
-            "country": "Cameroon"
+            "country": "Cameroon",
+            "region": "Africa"
         },
         {
             "name": "Fogo National Park",
@@ -326,7 +366,8 @@
             "latitude": 14.9812525,
             "longitude": -24.3579131,
             "state": null,
-            "country": "Cape Verde"
+            "country": "Cape Verde",
+            "region": "Africa"
         },
         {
             "name": "André Félix National Park",
@@ -334,7 +375,8 @@
             "latitude": 9.4945649,
             "longitude": 23.3335542,
             "state": "Vakaga",
-            "country": "Central African Republic"
+            "country": "Central African Republic",
+            "region": "Africa"
         },
         {
             "name": "Bamingui-Bangoran National Park",
@@ -342,7 +384,8 @@
             "latitude": 8.157243,
             "longitude": 19.7591675,
             "state": "Bamingui-Bangoran",
-            "country": "Central African Republic"
+            "country": "Central African Republic",
+            "region": "Africa"
         },
         {
             "name": "Dzanga-Ndoki National Park",
@@ -350,7 +393,8 @@
             "latitude": 3.4368607,
             "longitude": 16.3463791,
             "state": "Sangha-Mbare",
-            "country": "Central African Republic"
+            "country": "Central African Republic",
+            "region": "Africa"
         },
         {
             "name": "Mbaéré Bodingué National Park",
@@ -358,7 +402,8 @@
             "latitude": 3.802787,
             "longitude": 17.24673,
             "state": "Sangha-Mbare",
-            "country": "Central African Republic"
+            "country": "Central African Republic",
+            "region": "Africa"
         },
         {
             "name": "St Floris National Park",
@@ -366,7 +411,8 @@
             "latitude": 8.460902899999999,
             "longitude": 21.766,
             "state": null,
-            "country": "Central African Republic"
+            "country": "Central African Republic",
+            "region": "Africa"
         },
         {
             "name": "Aouk National Park",
@@ -374,7 +420,8 @@
             "latitude": 10.8375,
             "longitude": 19.6555556,
             "state": null,
-            "country": "Chad"
+            "country": "Chad",
+            "region": "Africa"
         },
         {
             "name": "Goz Beïda National Park",
@@ -382,7 +429,8 @@
             "latitude": 12.225759,
             "longitude": 21.4126837,
             "state": "Ouaddaï Region",
-            "country": "Chad"
+            "country": "Chad",
+            "region": "Africa"
         },
         {
             "name": "Manda National Park",
@@ -390,7 +438,8 @@
             "latitude": 9.383462399999999,
             "longitude": 18.0005933,
             "state": "ماندول",
-            "country": "Chad"
+            "country": "Chad",
+            "region": "Africa"
         },
         {
             "name": "Zakouma National Park",
@@ -398,7 +447,8 @@
             "latitude": 10.8916682,
             "longitude": 19.8209308,
             "state": "Salamat Region",
-            "country": "Chad"
+            "country": "Chad",
+            "region": "Africa"
         },
         {
             "name": "Garamba National Park",
@@ -406,7 +456,8 @@
             "latitude": 4.1666667,
             "longitude": 29.5,
             "state": "Province orientale",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Kahuzi-Biéga National Park",
@@ -414,7 +465,8 @@
             "latitude": -2.2497,
             "longitude": 28.6887,
             "state": "South-Kivu",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Kundelungu National Park",
@@ -422,7 +474,8 @@
             "latitude": -10.6282015,
             "longitude": 27.8311428,
             "state": "Katanga",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Lomami National Park",
@@ -430,7 +483,8 @@
             "latitude": -1.3288108,
             "longitude": 25.0683576,
             "state": "Province orientale",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Maiko National Park",
@@ -438,15 +492,17 @@
             "latitude": -0.5,
             "longitude": 27.5,
             "state": null,
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Mangroves National Park",
             "address": "Mangroves National Park, Democratic Republic of the Congo",
-            "latitude": -5.750000,
-            "longitude": 12.750000,
+            "latitude": -5.75,
+            "longitude": 12.75,
             "state": null,
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Okapi Wildlife Reserve (Note: This is not a national park",
@@ -454,7 +510,8 @@
             "latitude": 1.6710695,
             "longitude": 28.4873575,
             "state": "Province orientale",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Salonga National Park (North and South sections)",
@@ -462,7 +519,8 @@
             "latitude": -1.9999932,
             "longitude": 21.0002492,
             "state": "Équateur",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Upemba National Park",
@@ -470,7 +528,8 @@
             "latitude": -8.607384399999999,
             "longitude": 26.3721711,
             "state": "Katanga",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Virunga National Park",
@@ -478,7 +537,8 @@
             "latitude": -0.05022099999999999,
             "longitude": 29.5142852,
             "state": "Nord-Kivu",
-            "country": "Democratic Republic of the Congo"
+            "country": "Democratic Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Conkouati-Douli National Park",
@@ -486,7 +546,8 @@
             "latitude": -3.8855555,
             "longitude": 11.5033333,
             "state": null,
-            "country": "Congo - Brazzaville"
+            "country": "Congo - Brazzaville",
+            "region": "Africa"
         },
         {
             "name": "Nouabalé-Ndoki National Park",
@@ -494,7 +555,8 @@
             "latitude": 2.5856892,
             "longitude": 16.6291304,
             "state": null,
-            "country": "Congo - Brazzaville"
+            "country": "Congo - Brazzaville",
+            "region": "Africa"
         },
         {
             "name": "Ntokou-Pikounda National Park",
@@ -502,7 +564,8 @@
             "latitude": 0.3138046,
             "longitude": 16.5407686,
             "state": "Sangha",
-            "country": "Republic of the Congo"
+            "country": "Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Odzala-Kokoua National Park",
@@ -510,7 +573,8 @@
             "latitude": 1.3206287,
             "longitude": 14.8454619,
             "state": "Cuvette-Ouest",
-            "country": "Republic of the Congo"
+            "country": "Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Ougoue Lekiti National Park",
@@ -518,7 +582,8 @@
             "latitude": 1.9953316,
             "longitude": 13.617145,
             "state": "Sangha",
-            "country": "Republic of the Congo"
+            "country": "Republic of the Congo",
+            "region": "Africa"
         },
         {
             "name": "Assagny National Park",
@@ -526,7 +591,8 @@
             "latitude": 5.2293048,
             "longitude": -4.8730682,
             "state": "District des Lagunes",
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Banco National Park",
@@ -534,7 +600,8 @@
             "latitude": 5.3932312,
             "longitude": -4.0524856,
             "state": "District Autonome d'Abidjan",
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Comoé National Park",
@@ -542,7 +609,8 @@
             "latitude": 9,
             "longitude": -3.5,
             "state": null,
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Îles Ehotilés National Park",
@@ -550,7 +618,8 @@
             "latitude": 5.1975242,
             "longitude": -3.238251,
             "state": "Comoé",
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Marahoué National Park",
@@ -558,7 +627,8 @@
             "latitude": 7.0969157,
             "longitude": -6.0255738,
             "state": "Sassandra-Marahoué",
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Mont Nimba National Park",
@@ -566,7 +636,8 @@
             "latitude": 7.6377525,
             "longitude": -8.418422399999999,
             "state": null,
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Mont Péko National Park",
@@ -574,7 +645,8 @@
             "latitude": 7.0154839,
             "longitude": -7.243710499999999,
             "state": "Duckone",
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Mont Sângbé National Park",
@@ -582,7 +654,8 @@
             "latitude": 7.9402088,
             "longitude": -7.2221421,
             "state": null,
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Taï National Park",
@@ -590,7 +663,8 @@
             "latitude": 5.69,
             "longitude": -6.939444399999999,
             "state": null,
-            "country": "Côte d'Ivoire"
+            "country": "Côte d'Ivoire",
+            "region": "Africa"
         },
         {
             "name": "Day Forest National Park",
@@ -598,7 +672,8 @@
             "latitude": 11.7541978,
             "longitude": 42.6880552,
             "state": "Région de Tadjourah",
-            "country": "Djibouti"
+            "country": "Djibouti",
+            "region": "Africa"
         },
         {
             "name": "Djibouti National Park",
@@ -606,7 +681,8 @@
             "latitude": 11.7541978,
             "longitude": 42.6880552,
             "state": "Région de Tadjourah",
-            "country": "Djibouti"
+            "country": "Djibouti",
+            "region": "Africa"
         },
         {
             "name": "Yoboki National Park",
@@ -614,7 +690,8 @@
             "latitude": 11.5092056,
             "longitude": 42.1041441,
             "state": "Dikhil",
-            "country": "Djibouti"
+            "country": "Djibouti",
+            "region": "Africa"
         },
         {
             "name": "Gabal Elba National Park",
@@ -622,7 +699,8 @@
             "latitude": 22.2,
             "longitude": 36.3333333,
             "state": null,
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Lake Burullus Protectorate",
@@ -630,7 +708,8 @@
             "latitude": 31.4761118,
             "longitude": 30.8728615,
             "state": "Kafr El Sheikh Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Lake Qarun Protectorate",
@@ -638,7 +717,8 @@
             "latitude": 29.4840214,
             "longitude": 30.6545022,
             "state": "Faiyum Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Nabq Protected Area",
@@ -646,7 +726,8 @@
             "latitude": 28.1213151,
             "longitude": 34.4410615,
             "state": null,
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Ras Muhammad National Park",
@@ -654,7 +735,8 @@
             "latitude": 27.7420043,
             "longitude": 34.2347743,
             "state": "South Sinai Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Saint Katherine Protectorate",
@@ -662,7 +744,8 @@
             "latitude": 28.5522054,
             "longitude": 33.9657163,
             "state": "South Sinai Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Sannur Valley Cave Protectorate",
@@ -670,7 +753,8 @@
             "latitude": 28.6231528,
             "longitude": 31.2864058,
             "state": "Beni Suef Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Siwa Oasis",
@@ -678,7 +762,8 @@
             "latitude": 29.2031708,
             "longitude": 25.5195451,
             "state": "Matrouh Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Taba Protected Area",
@@ -686,7 +771,8 @@
             "latitude": 29.492567,
             "longitude": 34.894901,
             "state": "Nuweiba",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Wadi Allaqi Biosphere Reserve",
@@ -694,7 +780,8 @@
             "latitude": 20.3311686,
             "longitude": 32.6645886,
             "state": "River Nile",
-            "country": "Sudan"
+            "country": "Sudan",
+            "region": "Africa"
         },
         {
             "name": "Wadi El Gamal National Park",
@@ -702,7 +789,8 @@
             "latitude": 24.4746631,
             "longitude": 35.0987374,
             "state": "Red Sea Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Wadi El Rayan Protectorate",
@@ -710,7 +798,8 @@
             "latitude": 29.1908915,
             "longitude": 30.4011911,
             "state": "Faiyum Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "White Desert National Park",
@@ -718,7 +807,8 @@
             "latitude": 27.0567362,
             "longitude": 27.9702964,
             "state": "New Valley Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Gilf Kebir National Park",
@@ -726,7 +816,8 @@
             "latitude": 26.699195,
             "longitude": 30.7487882,
             "state": "New Valley Governorate",
-            "country": "Egypt"
+            "country": "Egypt",
+            "region": "Africa"
         },
         {
             "name": "Monte Alen Park",
@@ -734,7 +825,8 @@
             "latitude": 1.5353324,
             "longitude": 10.1255164,
             "state": "Litoral",
-            "country": "Equatorial Guinea"
+            "country": "Equatorial Guinea",
+            "region": "Africa"
         },
         {
             "name": "Dahlak Marine National Park",
@@ -742,7 +834,8 @@
             "latitude": 15.6442181,
             "longitude": 40.1243449,
             "state": "Northern Red Sea",
-            "country": "Eritrea"
+            "country": "Eritrea",
+            "region": "Africa"
         },
         {
             "name": "Semenawi Bahri National Park",
@@ -750,7 +843,8 @@
             "latitude": 15.3113922,
             "longitude": 39.44502809999999,
             "state": null,
-            "country": "Eritrea"
+            "country": "Eritrea",
+            "region": "Africa"
         },
         {
             "name": "Abidjatta-Shalla National Park",
@@ -758,7 +852,8 @@
             "latitude": 7.5292887,
             "longitude": 38.5270305,
             "state": "Southern Nations, Nationalities, and People's Region",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Awash National Park",
@@ -766,7 +861,8 @@
             "latitude": 9.0833333,
             "longitude": 40,
             "state": null,
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Bale Mountains National Park",
@@ -774,7 +870,8 @@
             "latitude": 6.8858193,
             "longitude": 39.734338,
             "state": "Oromia",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Gambela National Park",
@@ -782,7 +879,8 @@
             "latitude": 8.0046138,
             "longitude": 34.0641419,
             "state": "Gambella",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Mago National Park",
@@ -790,7 +888,8 @@
             "latitude": 5.5142562,
             "longitude": 36.3498097,
             "state": "Southern Nations, Nationalities, and People's Region",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Nechisar National Park",
@@ -798,7 +897,8 @@
             "latitude": 5.9335499,
             "longitude": 37.681228,
             "state": null,
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Omo National Park",
@@ -806,7 +906,8 @@
             "latitude": 5.8310333,
             "longitude": 35.8279959,
             "state": "Southern Nations, Nationalities, and People's Region",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Simien Mountains National Park",
@@ -814,7 +915,8 @@
             "latitude": 13.1509723,
             "longitude": 37.898969,
             "state": "አማራ",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Yangudi Rassa National Park",
@@ -822,7 +924,8 @@
             "latitude": 10.5377259,
             "longitude": 40.87785849999999,
             "state": "Afar",
-            "country": "Ethiopia"
+            "country": "Ethiopia",
+            "region": "Africa"
         },
         {
             "name": "Akanda National Park",
@@ -830,7 +933,8 @@
             "latitude": 0.555879,
             "longitude": 9.500614299999999,
             "state": "Estuaire",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Batéké Plateau National Park",
@@ -838,7 +942,8 @@
             "latitude": -2.1576098,
             "longitude": 14.0072348,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Birougou National Park",
@@ -846,7 +951,8 @@
             "latitude": -1.8279422,
             "longitude": 12.3005803,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Crystal Mountains National Park",
@@ -854,7 +960,8 @@
             "latitude": 0.7787807999999999,
             "longitude": 10.2151578,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Ivindo National Park",
@@ -862,7 +969,8 @@
             "latitude": 0.2189629,
             "longitude": 12.7135121,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Loango National Park",
@@ -870,7 +978,8 @@
             "latitude": -2.1538342,
             "longitude": 9.5896043,
             "state": "Ogooué-Maritime",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Lopé National Park",
@@ -878,7 +987,8 @@
             "latitude": -0.4411596,
             "longitude": 11.5248055,
             "state": "Moyen-Ogooué",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Mayumba National Park",
@@ -886,7 +996,8 @@
             "latitude": -3.8194511,
             "longitude": 11.0202729,
             "state": "Nyanga",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Minkébé National Park",
@@ -894,7 +1005,8 @@
             "latitude": 1.863131,
             "longitude": 12.7135121,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Moukalaba-Doudau National Park",
@@ -902,7 +1014,8 @@
             "latitude": -2.4983347,
             "longitude": 10.3497895,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Mwangné National Park",
@@ -910,7 +1023,8 @@
             "latitude": 0.4739562,
             "longitude": 13.7752634,
             "state": null,
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Pongara National Park",
@@ -918,7 +1032,8 @@
             "latitude": 0.1289437,
             "longitude": 9.6118667,
             "state": "Estuaire",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Waka National Park",
@@ -926,7 +1041,8 @@
             "latitude": -1.2651205,
             "longitude": 11.0711758,
             "state": "Ngounié",
-            "country": "Gabon"
+            "country": "Gabon",
+            "region": "Africa"
         },
         {
             "name": "Abuko National Park",
@@ -934,7 +1050,8 @@
             "latitude": 13.3958423,
             "longitude": -16.6455527,
             "state": "West Coast Region",
-            "country": "The Gambia"
+            "country": "The Gambia",
+            "region": "Africa"
         },
         {
             "name": "Bijilo National Park",
@@ -942,7 +1059,8 @@
             "latitude": 13.4286111,
             "longitude": -16.7313889,
             "state": "West Coast Region",
-            "country": "The Gambia"
+            "country": "The Gambia",
+            "region": "Africa"
         },
         {
             "name": "Kiang West National Park",
@@ -950,7 +1068,8 @@
             "latitude": 13.3896903,
             "longitude": -15.9112424,
             "state": "Lower River",
-            "country": "The Gambia"
+            "country": "The Gambia",
+            "region": "Africa"
         },
         {
             "name": "Niumi National Park",
@@ -958,7 +1077,8 @@
             "latitude": 13.5591279,
             "longitude": -16.5260001,
             "state": "North Bank Division",
-            "country": "The Gambia"
+            "country": "The Gambia",
+            "region": "Africa"
         },
         {
             "name": "River Gambia National Park",
@@ -966,7 +1086,8 @@
             "latitude": 13.6927408,
             "longitude": -14.9330448,
             "state": "Central River",
-            "country": "The Gambia"
+            "country": "The Gambia",
+            "region": "Africa"
         },
         {
             "name": "Bia National Park",
@@ -974,7 +1095,8 @@
             "latitude": 6.5049936,
             "longitude": -3.0776568,
             "state": "Western Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Bui National Park",
@@ -982,7 +1104,8 @@
             "latitude": 8.3893458,
             "longitude": -2.3813621,
             "state": "Brong Ahafo Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Digya National Park",
@@ -990,7 +1113,8 @@
             "latitude": 7.5246672,
             "longitude": -0.2244662,
             "state": "Volta Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Kakum National Park",
@@ -998,7 +1122,8 @@
             "latitude": 5.350060399999999,
             "longitude": -1.3819499,
             "state": "Central",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Kalakpa Game Production Reserve",
@@ -1006,7 +1131,8 @@
             "latitude": 6.482093799999999,
             "longitude": 0.4785495,
             "state": "Volta Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Mole National Park",
@@ -1014,7 +1140,8 @@
             "latitude": 9.5,
             "longitude": -2,
             "state": "Northern Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Nini-Suhien National Park",
@@ -1022,7 +1149,8 @@
             "latitude": 5.263136500000001,
             "longitude": -2.5792482,
             "state": "Western Region",
-            "country": "Ghana"
+            "country": "Ghana",
+            "region": "Africa"
         },
         {
             "name": "Badiar National Park",
@@ -1030,7 +1158,8 @@
             "latitude": 12.6236172,
             "longitude": -13.4280586,
             "state": "Boké",
-            "country": "Guinea"
+            "country": "Guinea",
+            "region": "Africa"
         },
         {
             "name": "Haut Niger National Park",
@@ -1038,7 +1167,8 @@
             "latitude": 10.2819536,
             "longitude": -10.0807298,
             "state": null,
-            "country": "Guinea"
+            "country": "Guinea",
+            "region": "Africa"
         },
         {
             "name": "Cacheu River National Park",
@@ -1046,7 +1176,8 @@
             "latitude": 12.2103203,
             "longitude": -16.4689001,
             "state": "Cacheu",
-            "country": "Guinea-Bissau"
+            "country": "Guinea-Bissau",
+            "region": "Africa"
         },
         {
             "name": "João Vieira Marine Park",
@@ -1054,7 +1185,8 @@
             "latitude": 10.9515962,
             "longitude": -15.7116464,
             "state": "Bolama",
-            "country": "Guinea-Bissau"
+            "country": "Guinea-Bissau",
+            "region": "Africa"
         },
         {
             "name": "Orango Islands National Park",
@@ -1062,7 +1194,8 @@
             "latitude": 11.1325584,
             "longitude": -16.0169971,
             "state": "Bolama",
-            "country": "Guinea-Bissau"
+            "country": "Guinea-Bissau",
+            "region": "Africa"
         },
         {
             "name": "Aberdare National Park",
@@ -1070,7 +1203,8 @@
             "latitude": -0.416597,
             "longitude": 36.666665,
             "state": "Nyeri County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Amboseli National Park",
@@ -1078,7 +1212,8 @@
             "latitude": -2.652687,
             "longitude": 37.260565,
             "state": "Kajiado County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Arabuko Sokoke National Park",
@@ -1086,7 +1221,8 @@
             "latitude": -3.25,
             "longitude": 39.966667,
             "state": "Kilifi County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Central Island National Park",
@@ -1094,7 +1230,8 @@
             "latitude": 3.4959044,
             "longitude": 36.0404049,
             "state": null,
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Chyulu Hills National Park",
@@ -1102,7 +1239,8 @@
             "latitude": -2.42871,
             "longitude": 37.7312136,
             "state": "Makueni County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Hell's Gate National Park",
@@ -1110,7 +1248,8 @@
             "latitude": -0.8859585,
             "longitude": 36.3054355,
             "state": "Nakuru County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Kisite-Mpunguti Marine National Park",
@@ -1118,7 +1257,8 @@
             "latitude": -4.7191379,
             "longitude": 39.3694919,
             "state": null,
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Lake Nakuru National Park",
@@ -1126,7 +1266,8 @@
             "latitude": -0.356166,
             "longitude": 36.100211,
             "state": "Nakuru County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Malindi Marine National Park",
@@ -1134,7 +1275,8 @@
             "latitude": -3.254831,
             "longitude": 40.1323623,
             "state": null,
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Malka Mari National Park",
@@ -1142,7 +1284,8 @@
             "latitude": 4.2307559,
             "longitude": 40.7737584,
             "state": null,
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Marsabit National Park",
@@ -1150,7 +1293,8 @@
             "latitude": 2.179234,
             "longitude": 37.958126,
             "state": "Marsabit County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Meru National Park",
@@ -1158,7 +1302,8 @@
             "latitude": 0.089628,
             "longitude": 38.190029,
             "state": "Meru County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Mombasa Marine Park",
@@ -1166,7 +1311,8 @@
             "latitude": -3.9730288,
             "longitude": 39.7497857,
             "state": "Mombasa County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Mount Elgon National Park",
@@ -1174,7 +1320,8 @@
             "latitude": 1.0404213,
             "longitude": 34.7926776,
             "state": null,
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Mount Kenya National Park",
@@ -1182,7 +1329,8 @@
             "latitude": -0.1521384,
             "longitude": 37.3084079,
             "state": "Kirinyaga County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Mount Longonot National Park",
@@ -1190,7 +1338,8 @@
             "latitude": -0.9210039000000001,
             "longitude": 36.4472577,
             "state": "Nakuru County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Nairobi National Park",
@@ -1198,7 +1347,8 @@
             "latitude": -1.3730339,
             "longitude": 36.8529252,
             "state": "Nairobi County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Ol Donyo Sabuk National Park",
@@ -1206,7 +1356,8 @@
             "latitude": -1.1400887,
             "longitude": 37.2570237,
             "state": "Machakos County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Ruma National Park",
@@ -1214,7 +1365,8 @@
             "latitude": -0.6460521,
             "longitude": 34.2754988,
             "state": "Homa Bay County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Saiwa Swamp National Park",
@@ -1222,7 +1374,8 @@
             "latitude": 1.0442333,
             "longitude": 35.1597185,
             "state": "Trans-Nzoia County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Samburu National Reserve",
@@ -1230,7 +1383,8 @@
             "latitude": 0.5774644999999999,
             "longitude": 37.4915773,
             "state": "Samburu County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Sibiloi National Park",
@@ -1238,7 +1392,8 @@
             "latitude": 4.0118049,
             "longitude": 36.3498097,
             "state": "Marsabit County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Tsavo East National Park",
@@ -1246,7 +1401,8 @@
             "latitude": -2.2495147,
             "longitude": 38.3376639,
             "state": "Tsavo",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Tsavo West National Park",
@@ -1254,7 +1410,8 @@
             "latitude": -2.9632783,
             "longitude": 38.1439587,
             "state": "Tsavo",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Watamu Marine National Park",
@@ -1262,7 +1419,8 @@
             "latitude": -3.366038,
             "longitude": 39.950421,
             "state": "Kilifi County",
-            "country": "Kenya"
+            "country": "Kenya",
+            "region": "Africa"
         },
         {
             "name": "Sehlabathebe National Park",
@@ -1270,7 +1428,8 @@
             "latitude": -29.9035304,
             "longitude": 29.11074859999999,
             "state": "Qacha's Nek",
-            "country": "Lesotho"
+            "country": "Lesotho",
+            "region": "Africa"
         },
         {
             "name": "Ts'ehlanyane National Park",
@@ -1278,7 +1437,8 @@
             "latitude": -29.3215798,
             "longitude": 28.1140939,
             "state": "Maseru",
-            "country": "Lesotho"
+            "country": "Lesotho",
+            "region": "Africa"
         },
         {
             "name": "Sapo National Park",
@@ -1286,7 +1446,8 @@
             "latitude": 5.4603195,
             "longitude": -8.440357299999999,
             "state": null,
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Gola Forest National Park",
@@ -1294,7 +1455,8 @@
             "latitude": 7.666337299999999,
             "longitude": -10.841529,
             "state": "Eastern Province",
-            "country": "Sierra Leone"
+            "country": "Sierra Leone",
+            "region": "Africa"
         },
         {
             "name": "Kpo Mountains",
@@ -1302,7 +1464,8 @@
             "latitude": 7.3613889,
             "longitude": -10.085,
             "state": "Gbarpolu",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Grand Kru-River Gee",
@@ -1310,7 +1473,8 @@
             "latitude": 5.2604894,
             "longitude": -7.872159999999999,
             "state": "River Gee",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Bong Mountain",
@@ -1318,15 +1482,17 @@
             "latitude": 6.8380556,
             "longitude": -10.2108333,
             "state": "Bong",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Foya National Park (Foya Protected Area)",
             "address": "Foya National Park, Foya, Liberia",
-            "latitude": 8.3600,
+            "latitude": 8.36,
             "longitude": -10.2068,
             "state": "Foya",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Gbi National Park",
@@ -1334,7 +1500,8 @@
             "latitude": 6.313398480291502,
             "longitude": -8.8359176,
             "state": "Nimba",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Nimba West (Nimba National Forest)",
@@ -1342,7 +1509,8 @@
             "latitude": 7.6166667,
             "longitude": -8.4166667,
             "state": "Nimba",
-            "country": "Liberia"
+            "country": "Liberia",
+            "region": "Africa"
         },
         {
             "name": "Abughilan National Park",
@@ -1350,7 +1518,8 @@
             "latitude": 26.3364489802915,
             "longitude": 17.2296799802915,
             "state": "Jufra District",
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "El-Kouf National Park",
@@ -1358,23 +1527,26 @@
             "latitude": 26.3351,
             "longitude": 17.228331,
             "state": "Jufra District",
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "Karabolli National Park",
             "address": "Karabolli National Park, Libya",
-            "latitude": 32.784000,
-            "longitude": 13.783000,
+            "latitude": 32.784,
+            "longitude": 13.783,
             "state": null,
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "El Naggaza National Park",
             "address": "El Naggaza National Park, Libya",
-            "latitude": 32.779000,
-            "longitude": 13.879000,
+            "latitude": 32.779,
+            "longitude": 13.879,
             "state": "Murqub",
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "Rajma National Park",
@@ -1382,7 +1554,8 @@
             "latitude": 26.3351,
             "longitude": 17.228331,
             "state": "Jabal al Gharbi",
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "Sirman National Park (Surman)",
@@ -1390,7 +1563,8 @@
             "latitude": 32.718311,
             "longitude": 12.559407,
             "state": "Surman",
-            "country": "Libya"
+            "country": "Libya",
+            "region": "Africa"
         },
         {
             "name": "Amber Mountain National Park",
@@ -1398,7 +1572,8 @@
             "latitude": -12.6166667,
             "longitude": 49.15000000000001,
             "state": "Antsiranana Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Analamazaotra National Park",
@@ -1406,7 +1581,8 @@
             "latitude": -18.9388387,
             "longitude": 48.43376380000001,
             "state": "Province de Tamatave",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Andohahela National Park",
@@ -1414,7 +1590,8 @@
             "latitude": -24.7583073,
             "longitude": 46.7671967,
             "state": "Anosy",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Andringitra National Park",
@@ -1422,7 +1599,8 @@
             "latitude": -22.2,
             "longitude": 46.89,
             "state": "Fianarantsoa Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Ankarafantsika National Park",
@@ -1430,7 +1608,8 @@
             "latitude": -16.2233004,
             "longitude": 46.941659,
             "state": "Mahajanga Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Baie de Baly National Park",
@@ -1438,7 +1617,8 @@
             "latitude": -16.0263052,
             "longitude": 45.2431035,
             "state": "Mahajanga Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Bemaraha National Park",
@@ -1446,7 +1626,8 @@
             "latitude": -18.9199656,
             "longitude": 44.7943804,
             "state": "Mahajanga Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Isalo National Park",
@@ -1454,7 +1635,8 @@
             "latitude": -22.4656139,
             "longitude": 45.26177089999999,
             "state": null,
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Kirindy Mitea National Park",
@@ -1462,7 +1644,8 @@
             "latitude": -20.7397663,
             "longitude": 44.1720266,
             "state": "Toliara Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Lokobe National Park",
@@ -1470,7 +1653,8 @@
             "latitude": -13.397083,
             "longitude": 48.3240111,
             "state": "Antsiranana Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Mantadia National Park",
@@ -1478,7 +1662,8 @@
             "latitude": -18.83498,
             "longitude": 48.4587382,
             "state": "Toamasina Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Marojejy National Park",
@@ -1486,7 +1671,8 @@
             "latitude": -14.4430433,
             "longitude": 49.7401433,
             "state": "Antsiranana Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Masoala National Park",
@@ -1494,7 +1680,8 @@
             "latitude": -15.6376106,
             "longitude": 50.1008669,
             "state": null,
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Midongy du sud National Park",
@@ -1502,7 +1689,8 @@
             "latitude": -23.7073975,
             "longitude": 47.0972424,
             "state": "Fianarantsoa Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Namoroka National Park",
@@ -1510,7 +1698,8 @@
             "latitude": -16.4708943,
             "longitude": 45.3369459,
             "state": "Mahajanga Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Ranomafana National Park",
@@ -1518,7 +1707,8 @@
             "latitude": -21.2640611,
             "longitude": 47.4192917,
             "state": "Fianarantsoa Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Tsimanampetsotse National Park",
@@ -1526,7 +1716,8 @@
             "latitude": -24.1166667,
             "longitude": 43.75,
             "state": "Toliara Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Sahamalaza National Park",
@@ -1534,7 +1725,8 @@
             "latitude": 47.39,
             "longitude": -13.57,
             "state": "Sofia Region",
-            "country": "Madagascar "
+            "country": "Madagascar ",
+            "region": "Africa"
         },
         {
             "name": "Zahamena National Park",
@@ -1542,7 +1734,8 @@
             "latitude": -17.6122912,
             "longitude": 48.7794089,
             "state": "Toamasina Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Zombitse-Vohibasia National Park",
@@ -1550,7 +1743,8 @@
             "latitude": -22.8417034,
             "longitude": 44.6818377,
             "state": "Toliara Province",
-            "country": "Madagascar"
+            "country": "Madagascar",
+            "region": "Africa"
         },
         {
             "name": "Kasungu National Park",
@@ -1558,7 +1752,8 @@
             "latitude": -12.9092303,
             "longitude": 33.16888830000001,
             "state": "Central Region",
-            "country": "Malawi"
+            "country": "Malawi",
+            "region": "Africa"
         },
         {
             "name": "Lake Malawi National Park",
@@ -1566,7 +1761,8 @@
             "latitude": -14.0647224,
             "longitude": 34.8844867,
             "state": null,
-            "country": "Malawi"
+            "country": "Malawi",
+            "region": "Africa"
         },
         {
             "name": "Lengwe National Park",
@@ -1574,7 +1770,8 @@
             "latitude": -16.2608244,
             "longitude": 34.7519807,
             "state": "Southern Region",
-            "country": "Malawi"
+            "country": "Malawi",
+            "region": "Africa"
         },
         {
             "name": "Liwonde National Park",
@@ -1582,7 +1779,8 @@
             "latitude": -14.844135,
             "longitude": 35.3466253,
             "state": "Southern Region",
-            "country": "Malawi"
+            "country": "Malawi",
+            "region": "Africa"
         },
         {
             "name": "Nyika National Park",
@@ -1590,7 +1788,8 @@
             "latitude": -10.8,
             "longitude": 33.8,
             "state": null,
-            "country": "Malawi"
+            "country": "Malawi",
+            "region": "Africa"
         },
         {
             "name": "Bafing National Park",
@@ -1598,7 +1797,8 @@
             "latitude": 12.5602528,
             "longitude": -10.3048897,
             "state": "Région de Kayes",
-            "country": "Mali"
+            "country": "Mali",
+            "region": "Africa"
         },
         {
             "name": "Boucle du Baoulé National Park",
@@ -1606,7 +1806,8 @@
             "latitude": 13.79,
             "longitude": -9.1777778,
             "state": "Région de Kayes",
-            "country": "Mali"
+            "country": "Mali",
+            "region": "Africa"
         },
         {
             "name": "Kouroufing National Park",
@@ -1614,7 +1815,8 @@
             "latitude": 12.8288888,
             "longitude": -10.3947116,
             "state": "Région de Kayes",
-            "country": "Mali"
+            "country": "Mali",
+            "region": "Africa"
         },
         {
             "name": "Wongo National Park",
@@ -1622,7 +1824,8 @@
             "latitude": 12.9050912,
             "longitude": -10.7548851,
             "state": "Région de Kayes",
-            "country": "Mali"
+            "country": "Mali",
+            "region": "Africa"
         },
         {
             "name": "Banc d'Arguin National Park",
@@ -1630,7 +1833,8 @@
             "latitude": 20.6,
             "longitude": -16.45,
             "state": "Dakhlet Nouadhibou",
-            "country": "Mauritania"
+            "country": "Mauritania",
+            "region": "Africa"
         },
         {
             "name": "Diawling National Park",
@@ -1638,7 +1842,8 @@
             "latitude": 16.5140094,
             "longitude": -16.2824524,
             "state": "Trarza",
-            "country": "Mauritania"
+            "country": "Mauritania",
+            "region": "Africa"
         },
         {
             "name": "Black River Gorges National Park",
@@ -1646,7 +1851,8 @@
             "latitude": -20.4263719,
             "longitude": 57.4509443,
             "state": null,
-            "country": "Mauritius"
+            "country": "Mauritius",
+            "region": "Africa"
         },
         {
             "name": "Bras d'Eau National Park",
@@ -1654,15 +1860,17 @@
             "latitude": -20.1365566,
             "longitude": 57.73319339999999,
             "state": "Flacq District",
-            "country": "Mauritius"
+            "country": "Mauritius",
+            "region": "Africa"
         },
         {
             "name": "Islets National Park",
             "address": "Islets National Park, Mauritius",
             "latitude": -20.0336071,
-            "longitude": 57.6950,
+            "longitude": 57.695,
             "state": null,
-            "country": "Mauritius"
+            "country": "Mauritius",
+            "region": "Africa"
         },
         {
             "name": "Al Hoceima National Park",
@@ -1670,7 +1878,8 @@
             "latitude": 35.1666191,
             "longitude": -4.1309067,
             "state": "Tanger-Tétouan-Al Hoceïma",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Gulf of Khnifiss National Park",
@@ -1678,15 +1887,17 @@
             "latitude": 27.9950662,
             "longitude": -12.3692982,
             "state": "Laâyoune-Sakia El Hamra",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Haut Atlas Oriental National Park",
             "address": "Haut Atlas Oriental National Park, Morocco",
-            "latitude": 32.250000,
+            "latitude": 32.25,
             "longitude": -5.416667,
             "state": "Khenifra Province",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Ifrane National Park",
@@ -1694,7 +1905,8 @@
             "latitude": 33.5630084,
             "longitude": -5.237108699999999,
             "state": "Fès-Meknès",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Iriqui National Park",
@@ -1702,7 +1914,8 @@
             "latitude": 29.8416871,
             "longitude": -6.5163087,
             "state": "Souss Massa",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Khenifra National Park",
@@ -1710,7 +1923,8 @@
             "latitude": 32.9280932,
             "longitude": -5.436459,
             "state": "Béni Mellal-Khénifra",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Merdja Zerga Biological Reserve",
@@ -1718,7 +1932,8 @@
             "latitude": 34.8496625,
             "longitude": -6.274773400000001,
             "state": "Rabat-Salé-Kénitra",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Souss-Massa National Park",
@@ -1726,7 +1941,8 @@
             "latitude": 30.20817499999999,
             "longitude": -9.6229999,
             "state": "Souss Massa",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Talassemtane National Park",
@@ -1734,7 +1950,8 @@
             "latitude": 35.1306007,
             "longitude": -5.080691799999999,
             "state": "Tanger-Tétouan-Al Hoceïma",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Tazekka National Park",
@@ -1742,7 +1959,8 @@
             "latitude": 34.0902778,
             "longitude": -4.1836111,
             "state": "Fès-Meknès",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Toubkal National Park",
@@ -1750,7 +1968,8 @@
             "latitude": 31.0597222,
             "longitude": -7.916944399999999,
             "state": "Marrakech-Safi",
-            "country": "Morocco"
+            "country": "Morocco",
+            "region": "Africa"
         },
         {
             "name": "Banhine National Park",
@@ -1758,7 +1977,8 @@
             "latitude": -22.748496,
             "longitude": 32.8084496,
             "state": "Gaza",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Bazaruto National Park",
@@ -1766,7 +1986,8 @@
             "latitude": -21.6492998,
             "longitude": 35.4671593,
             "state": "Inhambane",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Gorongosa National Park",
@@ -1774,7 +1995,8 @@
             "latitude": -18.8162955,
             "longitude": 34.4959012,
             "state": "Sofala",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Limpopo National Park (part of the Great Limpopo Transfrontier Park)",
@@ -1782,7 +2004,8 @@
             "latitude": -23.6547983,
             "longitude": 32.174605,
             "state": "Gaza",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Magoe National Park",
@@ -1790,7 +2013,8 @@
             "latitude": -15.985278,
             "longitude": 31.897778,
             "state": "Tete Province",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Quirimbas National Park",
@@ -1798,7 +2022,8 @@
             "latitude": -12.2818095,
             "longitude": 40.4720004,
             "state": "Cabo Delgado",
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Zinave National Park",
@@ -1806,7 +2031,8 @@
             "latitude": -21.6788234,
             "longitude": 33.5390655,
             "state": null,
-            "country": "Mozambique"
+            "country": "Mozambique",
+            "region": "Africa"
         },
         {
             "name": "Ai-Ais/Richtersveld Transfrontier Park",
@@ -1814,7 +2040,8 @@
             "latitude": -27.9176696,
             "longitude": 17.4903309,
             "state": "Karas Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Bwabwata National Park",
@@ -1822,15 +2049,17 @@
             "latitude": -18.0989202,
             "longitude": 21.5813031,
             "state": "Kavango Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Dorob National Park",
             "address": "Dorob National Park, Namibia",
-            "latitude": -22.927850,
+            "latitude": -22.92785,
             "longitude": 14.564439,
             "state": "Erongo Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Etosha National Park",
@@ -1838,7 +2067,8 @@
             "latitude": -18.8555909,
             "longitude": 16.3293197,
             "state": null,
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Hardap Recreation Resort",
@@ -1846,7 +2076,8 @@
             "latitude": -24.515295,
             "longitude": 17.7873095,
             "state": "Hardap Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Mangetti National Park",
@@ -1854,7 +2085,8 @@
             "latitude": -18.6995587,
             "longitude": 19.140438,
             "state": null,
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Mudumu National Park",
@@ -1862,7 +2094,8 @@
             "latitude": -18.0964666,
             "longitude": 23.5252319,
             "state": "Zambezi Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Nkasa Rupara National Park",
@@ -1870,7 +2103,8 @@
             "latitude": -18.3730984,
             "longitude": 23.6388806,
             "state": "Zambezi Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Namib-Naukluft National Park",
@@ -1878,7 +2112,8 @@
             "latitude": -23.0833333,
             "longitude": 15.1666667,
             "state": null,
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Skeleton Coast National Park",
@@ -1886,7 +2121,8 @@
             "latitude": -19.9873292,
             "longitude": 13.2605112,
             "state": "Kunene Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "Waterberg National Park",
@@ -1894,7 +2130,8 @@
             "latitude": -20.3527008,
             "longitude": 17.3375791,
             "state": "Otjozondjupa Region",
-            "country": "Namibia"
+            "country": "Namibia",
+            "region": "Africa"
         },
         {
             "name": "W of the Niger National Park",
@@ -1902,7 +2139,8 @@
             "latitude": 12.0408333,
             "longitude": 3.0341667,
             "state": null,
-            "country": "Niger"
+            "country": "Niger",
+            "region": "Africa"
         },
         {
             "name": "Chad Basin National Park",
@@ -1910,7 +2148,8 @@
             "latitude": 11.7425652,
             "longitude": 14.0348565,
             "state": "Borno",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Cross River National Park",
@@ -1918,7 +2157,8 @@
             "latitude": 5.5805318,
             "longitude": 8.748116699999999,
             "state": "Cross River",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Gashaka-Gumti National Park",
@@ -1926,7 +2166,8 @@
             "latitude": 7.646929099999999,
             "longitude": 11.7692225,
             "state": "Taraba",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Kainji National Park (Borgu and Zugurma sections)",
@@ -1934,7 +2175,8 @@
             "latitude": 10.2206,
             "longitude": 4.3317,
             "state": "Niger",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Kamuku National Park",
@@ -1942,7 +2184,8 @@
             "latitude": 10.8036168,
             "longitude": 6.3013432,
             "state": "Kaduna",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Okomu National Park",
@@ -1950,7 +2193,8 @@
             "latitude": 6.253766400000001,
             "longitude": 5.2684437,
             "state": null,
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Old Oyo National Park",
@@ -1958,7 +2202,8 @@
             "latitude": 8.3780577,
             "longitude": 3.8248241,
             "state": null,
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Yankari National Park",
@@ -1966,7 +2211,8 @@
             "latitude": 9.756672900000002,
             "longitude": 10.5094074,
             "state": "Bauchi",
-            "country": "Nigeria"
+            "country": "Nigeria",
+            "region": "Africa"
         },
         {
             "name": "Akagera National Park",
@@ -1974,7 +2220,8 @@
             "latitude": -1.633333,
             "longitude": 30.783333,
             "state": "Eastern Province",
-            "country": "Rwanda"
+            "country": "Rwanda",
+            "region": "Africa"
         },
         {
             "name": "Gishwati Forest",
@@ -1982,7 +2229,8 @@
             "latitude": -1.8203448,
             "longitude": 29.3680113,
             "state": "Western Province",
-            "country": "Rwanda"
+            "country": "Rwanda",
+            "region": "Africa"
         },
         {
             "name": "Nyungwe Forest National Park",
@@ -1990,15 +2238,17 @@
             "latitude": -2.48125,
             "longitude": 29.215052,
             "state": null,
-            "country": "Rwanda"
+            "country": "Rwanda",
+            "region": "Africa"
         },
         {
             "name": "Volcans National Park",
             "address": "Volcans National Park, Rwanda",
-            "latitude": -1.467500,
-            "longitude": 29.492500,
+            "latitude": -1.4675,
+            "longitude": 29.4925,
             "state": null,
-            "country": "Rwanda"
+            "country": "Rwanda",
+            "region": "Africa"
         },
         {
             "name": "Obo National Park",
@@ -2006,7 +2256,8 @@
             "latitude": 0.1935478,
             "longitude": 6.547765699999999,
             "state": "São Tomé",
-            "country": "São Tomé and Príncipe"
+            "country": "São Tomé and Príncipe",
+            "region": "Africa"
         },
         {
             "name": "Basse Casamance National Park",
@@ -2014,7 +2265,8 @@
             "latitude": 12.3898185,
             "longitude": -16.5701927,
             "state": "Ziguinchor",
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Isles des Madeleines National Park",
@@ -2022,7 +2274,8 @@
             "latitude": 14.6543389,
             "longitude": -17.4712256,
             "state": "Dakar",
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Langue de Barbarie National Park",
@@ -2030,7 +2283,8 @@
             "latitude": 15.9327148,
             "longitude": -16.5134805,
             "state": "Saint-Louis",
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Djoudj National Bird Sanctuary",
@@ -2038,7 +2292,8 @@
             "latitude": 16.399321,
             "longitude": -16.2404468,
             "state": "Saint-Louis",
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Niokolo-Koba National Park",
@@ -2046,7 +2301,8 @@
             "latitude": 13.0099988,
             "longitude": -12.9448205,
             "state": null,
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Saloum Delta National Park",
@@ -2054,7 +2310,8 @@
             "latitude": 13.8055556,
             "longitude": -16.7572222,
             "state": "Fatick",
-            "country": "Senegal"
+            "country": "Senegal",
+            "region": "Africa"
         },
         {
             "name": "Curieuse Marine National Park",
@@ -2062,7 +2319,8 @@
             "latitude": -4.2815904,
             "longitude": 55.7217235,
             "state": "Baie Sainte Anne",
-            "country": "Seychelles"
+            "country": "Seychelles",
+            "region": "Africa"
         },
         {
             "name": "Morne Seychellois National Park",
@@ -2070,7 +2328,8 @@
             "latitude": -4.649999999999999,
             "longitude": 55.43333330000001,
             "state": "Port Glaud",
-            "country": "Seychelles"
+            "country": "Seychelles",
+            "region": "Africa"
         },
         {
             "name": "Praslin National Park",
@@ -2078,7 +2337,8 @@
             "latitude": -4.33,
             "longitude": 55.738391,
             "state": null,
-            "country": "Seychelles"
+            "country": "Seychelles",
+            "region": "Africa"
         },
         {
             "name": "Ste. Anne Marine National Park",
@@ -2086,7 +2346,8 @@
             "latitude": -4.6036699,
             "longitude": 55.5053303,
             "state": "Mont Fleuri",
-            "country": "Seychelles"
+            "country": "Seychelles",
+            "region": "Africa"
         },
         {
             "name": "Gola Rainforest National Park",
@@ -2094,7 +2355,8 @@
             "latitude": 7.666337299999999,
             "longitude": -10.841529,
             "state": "Eastern Province",
-            "country": "Sierra Leone"
+            "country": "Sierra Leone",
+            "region": "Africa"
         },
         {
             "name": "Outamba-Kilimi National Park",
@@ -2102,7 +2364,8 @@
             "latitude": 9.732639599999999,
             "longitude": -12.0252991,
             "state": "Northern Province",
-            "country": "Sierra Leone"
+            "country": "Sierra Leone",
+            "region": "Africa"
         },
         {
             "name": "Western Area National Park (proposed)",
@@ -2110,7 +2373,8 @@
             "latitude": 8.329079499999999,
             "longitude": -13.1509672,
             "state": "Western Area",
-            "country": "Sierra Leone"
+            "country": "Sierra Leone",
+            "region": "Africa"
         },
         {
             "name": "Daallo Mountain",
@@ -2118,7 +2382,8 @@
             "latitude": 10.7994521,
             "longitude": 47.3454133,
             "state": "Sanaag",
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Hargeisa National Park",
@@ -2126,7 +2391,8 @@
             "latitude": 9.9999869,
             "longitude": 44.4998966,
             "state": "Woqooyi Galbeed",
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Hobyo grasslands and shrublands",
@@ -2134,7 +2400,8 @@
             "latitude": null,
             "longitude": null,
             "state": null,
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Jilib National Park",
@@ -2142,7 +2409,8 @@
             "latitude": -1.3133284,
             "longitude": 41.5212742,
             "state": "Lower Juba",
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Kismayo National Park",
@@ -2150,7 +2418,8 @@
             "latitude": -0.358056,
             "longitude": 42.545278,
             "state": "Kismayo",
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Lag Badana National Park",
@@ -2158,7 +2427,8 @@
             "latitude": -1.3133284,
             "longitude": 41.5212742,
             "state": "Lower Juba",
-            "country": "Somalia"
+            "country": "Somalia",
+            "region": "Africa"
         },
         {
             "name": "Addo Elephant National Park",
@@ -2166,7 +2436,8 @@
             "latitude": -33.4834289,
             "longitude": 25.7505798,
             "state": "Eastern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Agulhas National Park",
@@ -2174,7 +2445,8 @@
             "latitude": -34.7299118,
             "longitude": 19.8128592,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Ai-Ais/Richtersveld Transfrontier Park",
@@ -2182,7 +2454,8 @@
             "latitude": -27.9176696,
             "longitude": 17.4903309,
             "state": "Karas Region",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Augrabies Falls National Park",
@@ -2190,7 +2463,8 @@
             "latitude": -28.5942498,
             "longitude": 20.3380661,
             "state": "Northern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Bontebok National Park",
@@ -2198,7 +2472,8 @@
             "latitude": -34.0656763,
             "longitude": 20.4687292,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Camdeboo National Park",
@@ -2206,7 +2481,8 @@
             "latitude": -32.2203946,
             "longitude": 24.5412818,
             "state": "Eastern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Golden Gate Highlands National Park",
@@ -2214,7 +2490,8 @@
             "latitude": -28.5166667,
             "longitude": 28.6166667,
             "state": "Free State",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Hluhluwe–Imfolozi Park",
@@ -2222,7 +2499,8 @@
             "latitude": -28.2198305,
             "longitude": 31.9518652,
             "state": "KwaZulu-Natal",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Karoo National Park",
@@ -2230,7 +2508,8 @@
             "latitude": -32.3634477,
             "longitude": 22.5412031,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Kgalagadi Transfrontier Park",
@@ -2238,15 +2517,17 @@
             "latitude": -26.4724121,
             "longitude": 20.6117036,
             "state": null,
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Knysna National Lake Area",
             "address": "Knysna National Lake Area, South Africa",
-            "latitude": -34.000000,
-            "longitude": 23.250000,
+            "latitude": -34,
+            "longitude": 23.25,
             "state": null,
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Kruger National Park",
@@ -2254,7 +2535,8 @@
             "latitude": -23.9883848,
             "longitude": 31.5547402,
             "state": null,
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Mapungubwe National Park",
@@ -2262,7 +2544,8 @@
             "latitude": -22.222048,
             "longitude": 29.3472691,
             "state": "Limpopo",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Marakele National Park",
@@ -2270,7 +2553,8 @@
             "latitude": -24.4192109,
             "longitude": 27.5965403,
             "state": "Limpopo",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Mokala National Park",
@@ -2278,7 +2562,8 @@
             "latitude": -29.1658502,
             "longitude": 24.3196629,
             "state": "Northern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Mountain Zebra National Park",
@@ -2286,7 +2571,8 @@
             "latitude": -32.1409504,
             "longitude": 25.5095692,
             "state": "Eastern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Namaqua National Park",
@@ -2294,7 +2580,8 @@
             "latitude": -30.016748,
             "longitude": 17.5790365,
             "state": "Northern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Royal Natal National Park",
@@ -2302,7 +2589,8 @@
             "latitude": -28.7036714,
             "longitude": 28.9202672,
             "state": null,
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Table Mountain National Park",
@@ -2310,7 +2598,8 @@
             "latitude": -33.9604102,
             "longitude": 18.4012537,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Tankwa Karoo National Park",
@@ -2318,7 +2607,8 @@
             "latitude": -32.2410219,
             "longitude": 20.095514,
             "state": null,
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Tsitsikamma National Park",
@@ -2326,7 +2616,8 @@
             "latitude": -34.0195658,
             "longitude": 23.8935591,
             "state": "Eastern Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "West Coast National Park",
@@ -2334,15 +2625,17 @@
             "latitude": -33.120833,
             "longitude": 18.066667,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Wilderness National Park",
             "address": "Wilderness National Park, South Africa",
-            "latitude": -34.000000,
-            "longitude": 23.250000,
+            "latitude": -34,
+            "longitude": 23.25,
             "state": "Western Cape",
-            "country": "South Africa"
+            "country": "South Africa",
+            "region": "Africa"
         },
         {
             "name": "Bandingilo National Park",
@@ -2350,7 +2643,8 @@
             "latitude": 5.5750333,
             "longitude": 32.174605,
             "state": "Central Equatoria",
-            "country": "South Sudan"
+            "country": "South Sudan",
+            "region": "Africa"
         },
         {
             "name": "Boma National Park",
@@ -2358,7 +2652,8 @@
             "latitude": 6.323603899999999,
             "longitude": 33.9750018,
             "state": "Jonglei",
-            "country": "South Sudan"
+            "country": "South Sudan",
+            "region": "Africa"
         },
         {
             "name": "Nimule National Park",
@@ -2366,15 +2661,17 @@
             "latitude": 3.6399611,
             "longitude": 32.1064668,
             "state": "Eastern Equatoria",
-            "country": "South Sudan"
+            "country": "South Sudan",
+            "region": "Africa"
         },
         {
             "name": "Southern National Park",
             "address": "Southern National Park, South Sudan",
-            "latitude": 6.550000,
+            "latitude": 6.55,
             "longitude": 28.283333,
             "state": null,
-            "country": "South Sudan"
+            "country": "South Sudan",
+            "region": "Africa"
         },
         {
             "name": "Dinder National Park",
@@ -2382,7 +2679,8 @@
             "latitude": 12.8181591,
             "longitude": 35.3905046,
             "state": "Sennar",
-            "country": "Sudan"
+            "country": "Sudan",
+            "region": "Africa"
         },
         {
             "name": "Lantoto National Park",
@@ -2390,7 +2688,8 @@
             "latitude": 4.4543949,
             "longitude": 29.9250115,
             "state": "Central Equatoria",
-            "country": "South Sudan"
+            "country": "South Sudan",
+            "region": "Africa"
         },
         {
             "name": "Radom National Park",
@@ -2398,7 +2697,8 @@
             "latitude": 9.5718269,
             "longitude": 24.1921735,
             "state": null,
-            "country": "Sudan"
+            "country": "Sudan",
+            "region": "Africa"
         },
         {
             "name": "Suakin Archipelago National Park",
@@ -2406,7 +2706,8 @@
             "latitude": 18.738611,
             "longitude": 38.488056,
             "state": null,
-            "country": "Sudan"
+            "country": "Sudan",
+            "region": "Africa"
         },
         {
             "name": "Hlane Royal National Park",
@@ -2414,7 +2715,8 @@
             "latitude": -26.2609868,
             "longitude": 31.8797178,
             "state": "Lubombo Region",
-            "country": "Eswatini"
+            "country": "Eswatini",
+            "region": "Africa"
         },
         {
             "name": "Arusha National Park",
@@ -2422,7 +2724,8 @@
             "latitude": -3.25,
             "longitude": 36.75,
             "state": "Arusha Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Gombe Stream National Park",
@@ -2430,7 +2733,8 @@
             "latitude": -4.6908189,
             "longitude": 29.6271737,
             "state": "Kigoma Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Jozani Chwaka Bay National Park",
@@ -2438,7 +2742,8 @@
             "latitude": -6.2692058,
             "longitude": 39.4256063,
             "state": "Unguja South Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Katavi National Park",
@@ -2446,7 +2751,8 @@
             "latitude": -6.8980932,
             "longitude": 31.16589979999999,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Kilimanjaro National Park",
@@ -2454,7 +2760,8 @@
             "latitude": -3.0674247,
             "longitude": 37.35562729999999,
             "state": "Kilimanjaro Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Kitulo National Park",
@@ -2462,7 +2769,8 @@
             "latitude": -9.086366,
             "longitude": 33.9527031,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Lake Manyara National Park",
@@ -2470,7 +2778,8 @@
             "latitude": -3.4458901,
             "longitude": 35.8093071,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Mafia Island Marine Park",
@@ -2478,7 +2787,8 @@
             "latitude": -7.9556128,
             "longitude": 39.5381684,
             "state": "Pwani Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Mahale Mountains National Park",
@@ -2486,7 +2796,8 @@
             "latitude": -6.2602778,
             "longitude": 29.8997222,
             "state": "Kigoma Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Maziwi Island Marine Reserve",
@@ -2494,7 +2805,8 @@
             "latitude": -5.5,
             "longitude": 39.0666667,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Mikumi National Park",
@@ -2502,7 +2814,8 @@
             "latitude": -7.438242,
             "longitude": 37.0563983,
             "state": "Morogoro Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Mnazi Bay-Ruvumba Estuary Marine Park",
@@ -2510,7 +2823,8 @@
             "latitude": -10,
             "longitude": 40,
             "state": "Mtwara",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Ruaha National Park",
@@ -2518,7 +2832,8 @@
             "latitude": -7.510892,
             "longitude": 34.790359,
             "state": "Iringa Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Rubondo Island National Park",
@@ -2526,7 +2841,8 @@
             "latitude": -2.301424,
             "longitude": 31.860767,
             "state": "Geita Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Saadani National Park",
@@ -2534,7 +2850,8 @@
             "latitude": -6.000191099999999,
             "longitude": 38.7577605,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Serengeti National Park",
@@ -2542,7 +2859,8 @@
             "latitude": -2.3333333,
             "longitude": 34.8333333,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Tarangire National Park",
@@ -2550,7 +2868,8 @@
             "latitude": -3.9506743,
             "longitude": 35.8661255,
             "state": null,
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Udzungwa Mountains National Park",
@@ -2558,7 +2877,8 @@
             "latitude": -7.766667,
             "longitude": 36.816667,
             "state": "Iringa Region",
-            "country": "Tanzania"
+            "country": "Tanzania",
+            "region": "Africa"
         },
         {
             "name": "Fazao-Malfakassa National Park",
@@ -2566,7 +2886,8 @@
             "latitude": 8.9895447,
             "longitude": 0.9629523,
             "state": null,
-            "country": "Togo"
+            "country": "Togo",
+            "region": "Africa"
         },
         {
             "name": "Fosse aux Lions National Park",
@@ -2574,7 +2895,8 @@
             "latitude": 10.7661125,
             "longitude": 0.1775946,
             "state": "Savanes Region",
-            "country": "Togo"
+            "country": "Togo",
+            "region": "Africa"
         },
         {
             "name": "Kéran National Park",
@@ -2582,7 +2904,8 @@
             "latitude": 10.2145352,
             "longitude": 0.6393702,
             "state": null,
-            "country": "Togo"
+            "country": "Togo",
+            "region": "Africa"
         },
         {
             "name": "Bou-Hedma National Park",
@@ -2590,7 +2913,8 @@
             "latitude": 34.4719356,
             "longitude": 9.478381599999999,
             "state": null,
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Boukornine National Park",
@@ -2598,7 +2922,8 @@
             "latitude": 36.705,
             "longitude": 10.333333,
             "state": "Ben Arous",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Chaambi National Park",
@@ -2606,7 +2931,8 @@
             "latitude": 35.1815436,
             "longitude": 8.6270628,
             "state": "Kasserine",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "El Feidja National Park",
@@ -2614,7 +2940,8 @@
             "latitude": 36.4862021,
             "longitude": 8.3091261,
             "state": "Gouvernorat de Jendouba",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Ichkeul National Park",
@@ -2622,7 +2949,8 @@
             "latitude": 37.1688212,
             "longitude": 9.6675486,
             "state": "Bizerte",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Jebil National Park",
@@ -2630,7 +2958,8 @@
             "latitude": 33.0161038,
             "longitude": 9.101396399999999,
             "state": null,
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Sidi Toui National Park",
@@ -2638,7 +2967,8 @@
             "latitude": 32.7183687,
             "longitude": 11.2410442,
             "state": "Médenine",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Zembra and Zembretta Islands National Park",
@@ -2646,7 +2976,8 @@
             "latitude": 37.12583559999999,
             "longitude": 10.8028258,
             "state": "Nabeul",
-            "country": "Tunisia"
+            "country": "Tunisia",
+            "region": "Africa"
         },
         {
             "name": "Bwindi Impenetrable National Park",
@@ -2654,7 +2985,8 @@
             "latitude": -1.0521495,
             "longitude": 29.6201006,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Kibale National Park",
@@ -2662,7 +2994,8 @@
             "latitude": 0.4382416,
             "longitude": 30.3939874,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Kidepo Valley National Park",
@@ -2670,7 +3003,8 @@
             "latitude": 3.8495757,
             "longitude": 33.7546936,
             "state": "Northern Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Lake Mburo National Park",
@@ -2678,7 +3012,8 @@
             "latitude": -0.5805323,
             "longitude": 30.9919254,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Mgahinga National Park",
@@ -2686,7 +3021,8 @@
             "latitude": -1.3640669,
             "longitude": 29.638326,
             "state": null,
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Mount Elgon National Park",
@@ -2694,7 +3030,8 @@
             "latitude": 1.0404213,
             "longitude": 34.7926776,
             "state": null,
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Murchison Falls National Park",
@@ -2702,7 +3039,8 @@
             "latitude": 1.9288921,
             "longitude": 31.6644073,
             "state": null,
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Queen Elizabeth National Park",
@@ -2710,7 +3048,8 @@
             "latitude": -0.1640716,
             "longitude": 30.0202535,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Rwenzori National Park",
@@ -2718,7 +3057,8 @@
             "latitude": 0.3209596,
             "longitude": 29.9105365,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Semuliki National Park",
@@ -2726,7 +3066,8 @@
             "latitude": 0.8334345999999999,
             "longitude": 30.0434294,
             "state": "Western Region",
-            "country": "Uganda"
+            "country": "Uganda",
+            "region": "Africa"
         },
         {
             "name": "Blue Lagoon National Park",
@@ -2734,7 +3075,8 @@
             "latitude": -15.4986510197085,
             "longitude": 27.4180156802915,
             "state": "Mumbwa",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Isangano National Park",
@@ -2742,7 +3084,8 @@
             "latitude": -11.1126819,
             "longitude": 30.5739579,
             "state": "Northern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Kafue National Park",
@@ -2750,7 +3093,8 @@
             "latitude": -14.5,
             "longitude": 26.1666667,
             "state": "Southern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Kasanka National Park",
@@ -2758,7 +3102,8 @@
             "latitude": -12.5464509,
             "longitude": 30.21551899999999,
             "state": "Central Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lavushi Manda National Park",
@@ -2766,7 +3111,8 @@
             "latitude": -12.3333333,
             "longitude": 30.8333333,
             "state": "Northern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Liuwa Plain National Park",
@@ -2774,7 +3120,8 @@
             "latitude": -14.5,
             "longitude": 22.5,
             "state": "Western Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lochinvar National Park",
@@ -2782,7 +3129,8 @@
             "latitude": -15.9166667,
             "longitude": 27.25,
             "state": "Southern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lower Zambezi National Park",
@@ -2790,7 +3138,8 @@
             "latitude": -15.3122767,
             "longitude": 29.6035495,
             "state": "Lusaka Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Luambe National Park",
@@ -2798,7 +3147,8 @@
             "latitude": -12.5354685,
             "longitude": 32.2427,
             "state": "Eastern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lukusuzi National Park",
@@ -2806,7 +3156,8 @@
             "latitude": -12.8247687,
             "longitude": 32.6277455,
             "state": "Eastern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lusenga Plain National Park",
@@ -2814,7 +3165,8 @@
             "latitude": -9.4156664,
             "longitude": 29.1855785,
             "state": "Luapula Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Mosi-oa-Tunya National Park",
@@ -2822,7 +3174,8 @@
             "latitude": -17.8709137,
             "longitude": 25.8107681,
             "state": "Southern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Mweru Wantipa National Park",
@@ -2830,7 +3183,8 @@
             "latitude": -8.75,
             "longitude": 29.5,
             "state": null,
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "North Luangwa National Park",
@@ -2838,7 +3192,8 @@
             "latitude": -11.9114239,
             "longitude": 32.2653887,
             "state": "Northern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Nsumbu National Park",
@@ -2846,7 +3201,8 @@
             "latitude": -8.75,
             "longitude": 30.4166667,
             "state": "Northern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Nyika National Park, Zambia",
@@ -2854,7 +3210,8 @@
             "latitude": -10.8,
             "longitude": 33.8,
             "state": null,
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Sioma Ngwezi National Park",
@@ -2862,7 +3219,8 @@
             "latitude": -17.2600776,
             "longitude": 23.5660546,
             "state": "Western Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "South Luangwa National Park",
@@ -2870,7 +3228,8 @@
             "latitude": -12.9409803,
             "longitude": 31.904538,
             "state": null,
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "West Lunga National Park",
@@ -2878,7 +3237,8 @@
             "latitude": -12.8061787,
             "longitude": 24.7617836,
             "state": "Northwestern Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Lusaka National Park",
@@ -2886,7 +3246,8 @@
             "latitude": -15.5200941,
             "longitude": 28.4247129,
             "state": "Lusaka Province",
-            "country": "Zambia"
+            "country": "Zambia",
+            "region": "Africa"
         },
         {
             "name": "Chimanimani National Park",
@@ -2894,7 +3255,8 @@
             "latitude": -19.8032402,
             "longitude": 32.8733117,
             "state": "Manicaland Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Chizarira National Park",
@@ -2902,7 +3264,8 @@
             "latitude": -17.7456807,
             "longitude": 27.8780275,
             "state": null,
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Gonarezhou National Park",
@@ -2910,7 +3273,8 @@
             "latitude": -21.8051615,
             "longitude": 31.7195459,
             "state": "Masvingo Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Hwange National Park",
@@ -2918,7 +3282,8 @@
             "latitude": -19.1240539,
             "longitude": 26.5925913,
             "state": "Matabeleland North Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Kazuma Pan National Park",
@@ -2926,7 +3291,8 @@
             "latitude": -18.3429821,
             "longitude": 25.6154732,
             "state": "Matabeleland North Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Mana Pools National Park",
@@ -2934,7 +3300,8 @@
             "latitude": -15.937159,
             "longitude": 29.456993,
             "state": "Mashonaland West Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Matobo National Park",
@@ -2942,7 +3309,8 @@
             "latitude": -20.416667,
             "longitude": 28.483333,
             "state": "Matabeleland South Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Matusadona National Park",
@@ -2950,7 +3318,8 @@
             "latitude": -16.9431572,
             "longitude": 28.626479,
             "state": "Mashonaland West Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Nyanga National Park",
@@ -2958,7 +3327,8 @@
             "latitude": -18.430815,
             "longitude": 32.7633036,
             "state": "Manicaland Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Victoria Falls National Park",
@@ -2966,7 +3336,8 @@
             "latitude": -17.9738889,
             "longitude": 25.8475,
             "state": null,
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         },
         {
             "name": "Zambezi National Park",
@@ -2974,7 +3345,8 @@
             "latitude": -17.9782777,
             "longitude": 25.7101789,
             "state": "Matabeleland North Province",
-            "country": "Zimbabwe"
+            "country": "Zimbabwe",
+            "region": "Africa"
         }
     ]
 }
