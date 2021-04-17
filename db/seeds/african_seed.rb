@@ -20,10 +20,10 @@ parks_hashes = html_doc.search('.wikitable > tbody > tr')[1..-1].map do |row|
       latitude: geocode_data.nil? ? nil : geocode_data.latitude,
       longitude: geocode_data.nil? ? nil : geocode_data.longitude,
       state: geocode_data.nil? ? nil : geocode_data.state,
-      country: geocode_data.nil? ? nil : geocode_data.country
+      country: geocode_data.nil? ? nil : geocode_data.country,
+      region: "Africa"
      }
 end
-
 
 parks = { parks: parks_hashes }
 
