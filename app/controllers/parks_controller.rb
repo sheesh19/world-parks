@@ -7,7 +7,8 @@ class ParksController < ApplicationController
             {
                 lat: park.latitude,
                 lng: park.longitude,
-                infoWindow: render_to_string(partial: "park_window", locals: { park: park })
+                infoWindow: render_to_string(partial: "park_window", locals: { park: park }),
+                image_url: helpers.asset_url('tree.png')
             }
         end
     end
