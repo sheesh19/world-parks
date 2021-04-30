@@ -110,20 +110,20 @@
         },
         {
             "name": "Shahdag National Park",
-            "address": "Shenandoah National Park, Virginia, USA",
-            "latitude": 38.4754706,
-            "longitude": -78.4534573,
-            "state": "Virginia",
-            "country": "United States",
+            "address": "Shahdag National Park, Azerbaijan",
+            "latitude": 40.4355381,
+            "longitude": 46.5423126,
+            "state": null,
+            "country": "Azerbaijan",
             "region": "Asia"
         },
         {
             "name": "Shirvan National Park",
-            "address": "State College, PA 16801, USA",
-            "latitude": 40.7982133,
-            "longitude": -77.8599084,
-            "state": "Pennsylvania",
-            "country": "United States",
+            "address": "Shirvan National Park, Azerbaijan",
+            "latitude": 39.5644499,
+            "longitude": 49.1218497,
+            "state": null,
+            "country": "Azerbaijan",
             "region": "Asia"
         },
         {
@@ -137,11 +137,11 @@
         },
         {
             "name": "Baroiyadhala National Park",
-            "address": "9108 Woodward Ave, Detroit, MI 48202, USA",
-            "latitude": 42.383157,
-            "longitude": -83.08158,
-            "state": "Michigan",
-            "country": "United States",
+            "address": "Baroiyadhala National Park, Azerbaijan",
+            "latitude": 26.8971951,
+            "longitude": 95.4341441,
+            "state": null,
+            "country": "Azerbaijan",
             "region": "Asia"
         },
         {
@@ -506,20 +506,20 @@
         },
         {
             "name": "Eling Park",
-            "address": "Elings Park - Cliff Drive Entrance, 2599 Cliff Dr, Santa Barbara, CA 93105, USA",
-            "latitude": 34.4114676,
-            "longitude": -119.7357154,
-            "state": "California",
-            "country": "United States",
+            "address": "181 Eling Main St, Yuzhong District, Chongqing, China, 400014",
+            "latitude": 29.5484641,
+            "longitude": 106.5265388,
+            "state": "Chongqing",
+            "country": "China",
             "region": "Asia"
         },
         {
             "name": "Foping National Nature Reserve",
-            "address": "3001 E Walnut St, Paris, AR 72855, USA",
-            "latitude": 35.2927166,
-            "longitude": -93.7034176,
-            "state": "Arkansas",
-            "country": "United States",
+            "address": "Foping National Nature Reserve, China",
+            "latitude": 33.658000,
+            "longitude": 107.807000,
+            "state": "Shaanxi Province",
+            "country": "China",
             "region": "Asia"
         },
         {
@@ -4434,16 +4434,16 @@
             "latitude": 35.3831896,
             "longitude": 74.571748,
             "state": null,
-            "country": null,
+            "country": "Pakistan",
             "region": "Asia"
         },
         {
             "name": "Gumot National Park",
-            "address": "Yellowstone National Park, United States",
-            "latitude": 44.427963,
-            "longitude": -110.588455,
+            "address": "Gumot National Park, Pakistan",
+            "latitude": 35.006943,
+            "longitude": 74.200287,
             "state": null,
-            "country": "United States",
+            "country": "Pakistan",
             "region": "Asia"
         },
         {
