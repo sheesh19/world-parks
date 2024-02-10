@@ -1,5 +1,3 @@
-# >>PLEASE UPDATE ME<<
+# >>World Parks<<
 
-Rails app generated with BambooSticks, based on the LeWagon Devise template & Thoughtbot Suspenders.
-
-Developed & Designed by MangoTree Dev Agency
+Initial scraper & WIP frontend for a site for national parks around the world. 
